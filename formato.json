@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mesa de madera",
+        "descripcion": "Mesa de comedor de madera maciza, ideal para 6 personas.",
+        "precio": 250.00
+    },
+    {
+        "id": 2,
+        "nombre": "Silla ergonómica",
+        "descripcion": "Silla de oficina ergonómica con soporte lumbar.",
+        "precio": 150.00
+    },
+    {
+        "id": 3,
+        "nombre": "Lámpara de escritorio",
+        "descripcion": "Lámpara LED regulable para escritorio.",
+        "precio": 45.00
+    },
+    {
+        "id": 4,
+        "nombre": "Estante flotante",
+        "descripcion": "Estante flotante de madera para decoración.",
+        "precio": 35.00
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj de pared",
+        "descripcion": "Reloj de pared moderno con diseño minimalista.",
+        "precio": 25.00
+    },
+    {
+        "id": 6,
+        "nombre": "Cojín decorativo",
+        "descripcion": "Cojín decorativo con estampado geométrico.",
+        "precio": 15.00
+    },
+    {
+        "id": 7,
+        "nombre": "Almohada ortopédica",
+        "descripcion": "Almohada ortopédica para un mejor descanso.",
+        "precio": 40.00
+    },
+    {
+        "id": 8,
+        "nombre": "Manta de lana",
+        "descripcion": "Manta de lana suave y cálida para el invierno.",
+        "precio": 55.00
+    },
+    {
+        "id": 9,
+        "nombre": "Espejo decorativo",
+        "descripcion": "Espejo redondo con marco de metal.",
+        "precio": 80.00
+    },
+    {
+        "id": 10,
+        "nombre": "Cuadro decorativo",
+        "descripcion": "Cuadro abstracto para decorar cualquier espacio.",
+        "precio": 70.00
+    },
+    {
+        "id": 11,
+        "nombre": "Jarrón de cerámica",
+        "descripcion": "Jarrón de cerámica hecho a mano.",
+        "precio": 30.00
+    },
+    {
+        "id": 12,
+        "nombre": "Cesta de mimbre",
+        "descripcion": "Cesta de mimbre para almacenamiento.",
+        "precio": 20.00
+    },
+    {
+        "id": 13,
+        "nombre": "Ropa de cama",
+        "descripcion": "Juego de sábanas de algodón para cama queen.",
+        "precio": 60.00
+    },
+    {
+        "id": 14,
+        "nombre": "Cortinas",
+        "descripcion": "Cortinas blackout para mayor privacidad.",
+        "precio": 50.00
+    },
+    {
+        "id": 15,
+        "nombre": "Juego de utensilios",
+        "descripcion": "Juego de utensilios de cocina de acero inoxidable.",
+        "precio": 40.00
+    },
+    {
+        "id": 16,
+        "nombre": "Batidora",
+        "descripcion": "Batidora eléctrica con múltiples velocidades.",
+        "precio": 70.00
+    },
+    {
+        "id": 17,
+        "nombre": "Olla a presión",
+        "descripcion": "Olla a presión de acero inoxidable, 6 litros.",
+        "precio": 90.00
+    },
+    {
+        "id": 18,
+        "nombre": "Cuchillos de cocina",
+        "descripcion": "Juego de cuchillos de cocina profesional.",
+        "precio": 100.00
+    },
+    {
+        "id": 19,
+        "nombre": "Tostadora",
+        "descripcion": "Tostadora de 2 rebanadas con funciones múltiples.",
+        "precio": 35.00
+    },
+    {
+        "id": 20,
+        "nombre": "Cafetera",
+        "descripcion": "Cafetera eléctrica con capacidad para 12 tazas.",
+        "precio": 60.00
+    }
+]
